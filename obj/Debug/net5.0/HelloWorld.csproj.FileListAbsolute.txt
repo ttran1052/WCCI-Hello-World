@@ -1,0 +1,15 @@
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/Users/tom/source/repos/WCCI-Hello-World/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
